@@ -1,5 +1,9 @@
 # Jose Juarez Rodrigues dos Santos 
 
+# Sobre mim
+
+"Todo mundo pensa em ganhar dinheiro, mas primeiro precisamos fazer o que gostamos; ao fazer o que gostamos, o dinheiro vem automaticamente." - Aleksandar Mandic
+
 ### Conecte-se comigo
 
 <!-- [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/juniojuarez) -->
@@ -19,12 +23,6 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorjuarez&repo=url-shortener-node&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/juniorjuarez/url-shortener-node)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorjuarez&repo=GIT-FINDER&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/juniorjuarez/GIT-FINDER)
-
-# Sobre mim
-
-"Todo mundo pensa em ganhar dinheiro, mas primeiro precisamos fazer o que gostamos; ao fazer o que gostamos, o dinheiro vem automaticamente." - Aleksandar Mandic
-
-Sou formado em Sistemas de Informação pelas Faculdades Santo Agostinho.
 
 ## Experiências e Conhecimentos 😎
 
