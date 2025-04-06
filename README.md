@@ -23,16 +23,18 @@ Tenho conhecimento em bancos de dados, com domínio do uso de DML, e experiênci
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, JavaScript/TypeScript
 - Bancos de Dados: PostgreSQL, MySQL, SQL Server
-- Conhecimento em ReactJs NODE com Express e C#/DotNet
+- Conhecimento em ReactJs
 - Programação Orientada a Objetos (POO)
+- Familiaridade com JAVA e C#
+- Manutenção e Otimização de Banco de Dados (Firebird) - SQL (DML)
 
 ### 🧪 Testes e Automação:
 
 - Testes manuais e regressivos em ambientes de homologação
 - Testes de API com Postman
 - Análise e Diagnóstico de erros via Graylog
-- Conhecimento em Automação de testes com com Selenium (C#) e Playwright
-
+- Automação de testes com Cypress
+- Experiência com Selenium (C#) e Playwright
 
 ### 📞 Suporte e Produto:
 
@@ -42,6 +44,7 @@ Tenho conhecimento em bancos de dados, com domínio do uso de DML, e experiênci
 - Participação em reuniões com clientes
 - Análise de Layout Frontend (HTML/CSS/JS)
 - Desenvolvimento e gerenciamento de documentação interna
+- Participação em OKRs e elaboração de requisitos
 - Melhoria da experiência do usuário
 
 ---
@@ -65,6 +68,4 @@ Tenho conhecimento em bancos de dados, com domínio do uso de DML, e experiênci
 
 ## Projetos Recentes 🚀
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorjuarez&repo=url-shortener-node&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/juniorjuarez/url-shortener-node)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorjuarez&repo=GIT-FINDER&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/juniorjuarez/GIT-FINDER)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorjuarez&repo=IgniteFeed&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jun
