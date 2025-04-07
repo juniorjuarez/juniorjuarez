@@ -68,4 +68,4 @@ Tenho conhecimento em bancos de dados, com domínio do uso de DML, e experiênci
 
 ## Projetos Recentes 🚀
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorjuarez&repo=IgniteFeed&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jun
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorjuarez&repo=IgniteFeed&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/juniorjuarez/IgniteFeed)
