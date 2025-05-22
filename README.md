@@ -71,3 +71,5 @@ Tenho conhecimento em bancos de dados, com domínio do uso de DML, e experiênci
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorjuarez&repo=IgniteFeed&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/juniorjuarez/IgniteFeed)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorjuarez&repo=ToDo-List&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/juniorjuarez/ToDo-List)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorjuarez&repo=ignite-timer&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/juniorjuarez/ignite-timer)
