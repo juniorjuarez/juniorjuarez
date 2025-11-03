@@ -38,8 +38,7 @@ Estou focado em dominar os pilares do desenvolvimento de aplicações robustas e
 ### 🚀 Projetos em Destaque
 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorjuarez&repo=APICatalogo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/juniorjuarez/IgniteFeed)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorjuarez&repo=CatalogoProdutosApi&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/juniorjuarez/IgniteFeed)
 
 -----
 
